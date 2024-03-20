@@ -48,7 +48,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Change class to id since they are unique */
 .float-left {
     float: left;
     margin-right: 25px;
